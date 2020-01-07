@@ -1,0 +1,3 @@
+ls
+echo "Hello Shell script mode!"
+whoami
